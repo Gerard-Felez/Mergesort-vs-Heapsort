@@ -1,7 +1,6 @@
 // C++ program for the implementation of merge sort
 #include <iostream>
 #include <vector>
-#include <chrono>
 using namespace std;
 
 // Merges two subarrays of vec.
